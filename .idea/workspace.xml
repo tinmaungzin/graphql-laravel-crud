@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d5d14fc7-687d-4899-ae18-39d0bc33e24a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/graphql.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/graphql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Create.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Create.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Show.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Show.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +21,22 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -183,7 +202,7 @@
       <workItem from="1585296767829" duration="28815000" />
       <workItem from="1585374598977" duration="48274000" />
       <workItem from="1585451027160" duration="3744000" />
-      <workItem from="1585454876623" duration="1002000" />
+      <workItem from="1585454876623" duration="6540000" />
     </task>
     <servers />
   </component>
