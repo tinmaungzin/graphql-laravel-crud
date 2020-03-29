@@ -30,8 +30,8 @@ class LoginMutation extends Mutation
     public function resolve($root, $args)
     {
         $credentials = [
-            'client_id' => 4,
-            'client_secret' => 'XERBZMCQ7Qv7ihTdnvZI2tpuGQ7uht7MfpecfMph',
+            'client_id' => env('PASSPORT_CLIENT_ID'),
+            'client_secret' => env('PASSPORT_CLIENT_SECRET'),
             'grant_type' => 'password',
             'username' => $args['username'],
             'password' => $args['password']
