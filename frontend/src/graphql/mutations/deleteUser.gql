@@ -1,6 +1,0 @@
-
-mutation($id: Int!){
-    deleteUser(id: $id){
-        name
-    }
-}
