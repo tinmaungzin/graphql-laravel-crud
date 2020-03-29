@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5d14fc7-687d-4899-ae18-39d0bc33e24a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/graphql/mutations/deleteUser.gql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/graphql/mutations/updateUser.gql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/graphql/queries/user.gql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/graphql/queries/users.gql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/Create.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/Edit.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/Show.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +182,7 @@
       <updated>1585296765548</updated>
       <workItem from="1585296767829" duration="28815000" />
       <workItem from="1585374598977" duration="48274000" />
-      <workItem from="1585451027160" duration="869000" />
+      <workItem from="1585451027160" duration="2706000" />
     </task>
     <servers />
   </component>
